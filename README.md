@@ -11,7 +11,7 @@ As I finish my program, I plan to go back to Indonesia and work in the Public In
 # What I hope to learn
 ![Telling Stories with Data](Intro-TSWD.png)
 
-Data will be my good friend for my future career as I plan to work as a Product Manager/Tech Consultant. Since my role will relate closely with the user and stakeholder, having a seasoned skill in visualizing the data will be a significant skill for me. Furthermore, bringing the accurate yet compelling stories out of the data will help me to nail my work in every process. Hence, I really hope this course can help to equip my visualization and storytelling skills. Some practical theory in visualization such as color, layout or typography combined with narrative ability as stated in the course introduction will enhance my ability to contextualize the data with the user.
+Data will be my good friend for my future career since I plan to work as a Product Manager/Tech Consultant. Having a seasoned skill in visualizing the data will be a significant skill for me to engage with stakeholders. Furthermore, bringing the accurate yet compelling stories out of the data will help me to nail my work in every process. Hence, I really hope this course can help to equip my visualization and storytelling skills. Some practical theory in visualization such as color, layout or typography combined with narrative ability as stated in the course introduction will enhance my ability to contextualize the data with the user.
 
 # Portfolio
 Here's where all my cool work will go. You should hire me!
