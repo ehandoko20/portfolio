@@ -4,11 +4,7 @@ This is my public portfolio for Telling Stories with Data at CMU
 # About me
 Hi, My name is Edvin William Handoko! You can call me Edvin (He/His/Him). I'm a Master of Information Systems Management student at Heinz College, Carnegie Mellon University. Prior entering graduate school, I was a Tech Consultant in Singapore, working with various government agencies to solve their problem with digital solutions. My interest in Public Tech drives me to pursue higher degree. Please find my linkedin profile here: [https://www.linkedin.com/in/edvin-william-handoko/](/README.md)
 
-![Wonderful Indonesia](Intro-Indonesia.jpg)
-
 I come from one of the biggest countries in Southeast Asia named Indonesia. If you know about Bali, Indonesia is the country where it is located. You should put my country as one of your travel bucket list! Besides Bali, you will find more tourism sites from natural to cultural. As the "Equatorial Emerald", you will taste the "paradise" while you're staying in Indonesia.
-
-![GovTech Indonesia](Intro-PIT_Indonesia.jpg)
 
 As I finish my program, I plan to go back to Indonesia and work in the Public Interest Tech sector. Indonesia has developed their digital economy significantly and started to build their government digital team in various strategic sector, such as healthcare, education and human capital. I think it's a good opportunity to be part of this initiative so that we can accelarate the progress more. 
 
